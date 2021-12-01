@@ -5,9 +5,9 @@
 </p>
 
 <h1 align="center">
-    <strong>
+    <h3>
         Ciallo～(∠・ω< )⌒★ I'm <a href="https://nephrencake.github.io/">NephrenCake</a>!
-    </strong>
+    </h3>
 </h1>
 
 <p align="center">I'm currently a college student majoring in Computer Science.</p>
