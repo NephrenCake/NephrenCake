@@ -12,7 +12,7 @@
 
 <p align="center">
     <strong>
-        I'm currently a college student majoring in Computer Science.
+        I'm currently a college student majoring in Computer Science in Nanjing Tech University.
     </strong>
 </p>
 
