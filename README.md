@@ -5,11 +5,10 @@
 </p>
 
 <h1 align="center">
-    Hi, I'm <a href="https://nephrencake.github.io/">NephrenCake</a>!
+    Ciallo～(∠・ω< )⌒★ I'm <a href="https://nephrencake.github.io/">NephrenCake</a>!
 </h1>
-<h1 align="center">
-    Welcome to my GitHub ~ Ciallo～(∠・ω< )⌒★
-</h1>
+
+<p align="center">I'm currently a college student majoring in Computer Science.</p>
 
 <p align="center">
     <a href="https://github.com/NephrenCake">
@@ -21,8 +20,6 @@
         <img src="https://github-readme-stats-one-bice.vercel.app/api/top-langs/?username=NephrenCake&layout=compact&exclude_repo=NephrenCake.github.io&role=OWNER,ORGANIZATION_MEMBER&langs_count=10)" alt="NephrenCake's github stats">
     </a>
 </p>
-
-<p align="center">I'm currently a college student majoring in Computer Science.</p>
 
 <!--
 <p align="center">
