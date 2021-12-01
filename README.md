@@ -1,6 +1,6 @@
 <p align="center">
     <a href="https://nephrencake.github.io/">
-        <img src="banner.png" alt="NephrenCake Banner">
+        <img src="banner.jpg" alt="NephrenCake Banner">
     </a>
 </p>
 
