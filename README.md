@@ -5,12 +5,16 @@
 </p>
 
 <h1 align="center">
-    <h3>
+    <strong>
         Ciallo～(∠・ω< )⌒★ I'm <a href="https://nephrencake.github.io/">NephrenCake</a>!
-    </h3>
+    </strong>
 </h1>
 
-<p align="center">I'm currently a college student majoring in Computer Science.</p>
+<p align="center">
+    <strong>
+        I'm currently a college student majoring in Computer Science.
+    </strong>
+</p>
 
 <p align="center">
     <a href="https://github.com/NephrenCake">
