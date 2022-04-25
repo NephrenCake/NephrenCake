@@ -12,7 +12,19 @@
 
 <p align="center">
     <strong>
-        I'm currently a college student majoring in Computer Science in Nanjing Tech University.
+        I'm currently a college student majoring in Computer Science in Nanjing Tech University. 是11408考研人。
+    </strong>
+</p>
+
+<p align="center">
+    <strong>
+        Can't stand bad code. Code is Art. 无法忍受糟糕的代码。自己的代码至少要被自己看做是自己的艺术或者作品。
+    </strong>
+</p>
+
+<p align="center">
+    <strong>
+        Usual id: NephrenCake. 常用ID：浅幽丶奈芙莲。你也可以称呼我为nflhh（奈芙莲憨憨）。
     </strong>
 </p>
 
