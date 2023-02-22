@@ -24,13 +24,13 @@
 
 <p align="center">
     <strong>
-        Can't stand bad code. Code is Art.
+        Can't stand bad code. 
     </strong>
 </p>
 
 <p align="center">
     <strong>
-        无法忍受糟糕的代码。代码是艺术。
+        无法忍受糟糕的代码。
     </strong>
 </p>
 
