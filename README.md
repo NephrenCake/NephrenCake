@@ -1,73 +1,17 @@
-<p align="center">
-    <a href="https://nephrencake.github.io/">
-        <img src="banner.png" alt="NephrenCake Banner">
-    </a>
-</p>
+<img align='right' src='banner.jpg' width='410px'>
 
-<h1 align="center">
-    <strong>
-        Ciallo～(∠・ω< )⌒★ I'm NephrenCake!
-    </strong>
-</h1>
+# Ciallo～(∠・ω< )⌒★ I'm NephrenCake!
+
+- You can call me NephrenCake. 你可以叫我浅幽。请随意~
+- I'm a CS master candidate in the [**Department of Computer Science and Engineering**](https://www.cs.sjtu.edu.cn/index.aspx) of the [**Shanghai Jiao Tong University**](https://www.sjtu.edu.cn/).
+- I'm currently learning [**Kubernetes**](https://github.com/kubernetes/kubernetes).
+- Striving to write the most graceful code.
 
 <p align="center">
-    <strong>
-        I'm currently a college student majoring in Computer Science in Nanjing Tech University.
-    </strong>
-</p>
-
-<p align="center">
-    <strong>
-        是11408考研人。
-    </strong>
-</p>
-
-<p align="center">
-    <strong>
-        Can't stand bad code. 
-    </strong>
-</p>
-
-<p align="center">
-    <strong>
-        无法忍受糟糕的代码。
-    </strong>
-</p>
-
-<p align="center">
-    <strong>
-        Usual id: NephrenCake.
-    </strong>
-</p>
-
-<p align="center">
-    <strong>
-        常用ID：浅幽丶奈芙莲。你也可以叫我nflhh（奈芙莲憨憨）。
-    </strong>
-</p>
-
-<p align="center">
-    <img src="https://img.shields.io/badge/-Python-black?style=flat-square&logo=Python" alt="Python">
-    <img src="https://img.shields.io/badge/-java-black?style=flat-square&logo=Java" alt="Java">
-    <img src="https://img.shields.io/badge/-C++-black?style=flat-square&logo=C" alt="C++">
-    <img src="https://img.shields.io/badge/-PyTorch-black?style=flat-square&logo=PyTorch" alt="Git">
-    <img src="https://img.shields.io/badge/-OpenCV-black?style=flat-square&logo=OpenCV" alt="Git">
-    <img src="https://img.shields.io/badge/-Django-black?style=flat-square&logo=Django" alt="Git">
-    <img src="https://img.shields.io/badge/-Docker-black?style=flat-square&logo=Docker" alt="Docker">
-    <img src="https://img.shields.io/badge/-Git-black?style=flat-square&logo=Git" alt="Git">
-    <img src="https://img.shields.io/badge/-MySQL-black?style=flat-square&logo=MySql" alt="MySQL">
-    <img src="https://img.shields.io/badge/-Linux-black?style=flat-square&logo=Linux" alt="MySQL">
-</p>
-
-<p align="center">
-    <a href="https://github.com/NephrenCake">
-        <img src="https://github-readme-stats.vercel.app/api?username=NephrenCake&hide_border=true&show_icons=true&theme=buefy&icon_color=7957d5" alt="NephrenCake's github stats">
-    </a>
+    <img src="https://github-readme-stats.vercel.app/api?username=NephrenCake&hide_border=true&show_icons=true&theme=buefy&icon_color=7957d5" alt="NephrenCake's github stats">
 </p>
 <p align="center">
-    <a href="https://github.com/NephrenCake">
-        <img src="https://github-readme-stats-one-bice.vercel.app/api/top-langs/?username=NephrenCake&layout=compact&exclude_repo=NephrenCake.github.io&hide_border=true&langs_count=10&theme=buefy" alt="NephrenCake's github stats">
-    </a>
+    <img src="https://github-readme-stats-one-bice.vercel.app/api/top-langs/?username=NephrenCake&layout=compact&exclude_repo=NephrenCake.github.io&hide_border=true&langs_count=10&theme=buefy" alt="NephrenCake's github stats">
 </p>
 
 <!--
