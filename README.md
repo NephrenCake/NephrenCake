@@ -7,8 +7,8 @@
 - I'm currently learning [**Kubernetes**](https://github.com/kubernetes/kubernetes).
 - Striving to write the most graceful code.
 
-<img src='https://github-readme-stats.vercel.app/api?username=NephrenCake&hide_border=true&show_icons=true&theme=buefy&icon_color=7957d5' width='400px'>
-<img src='https://github-readme-stats-one-bice.vercel.app/api/top-langs/?username=NephrenCake&layout=compact&exclude_repo=NephrenCake.github.io&hide_border=true&langs_count=10&theme=buefy' width='400px'>
+<img align='center' src='https://github-readme-stats.vercel.app/api?username=NephrenCake&hide_border=true&show_icons=true&theme=buefy&icon_color=7957d5' width='400px'>
+<img align='center' src='https://github-readme-stats-one-bice.vercel.app/api/top-langs/?username=NephrenCake&layout=compact&exclude_repo=NephrenCake.github.io&hide_border=true&langs_count=10&theme=buefy'>
 
 <!--
 <p align="center">
