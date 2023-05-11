@@ -1,6 +1,6 @@
 <img align='right' src='banner.jpg' width='410px'>
 
-# Ciallo～(∠・ω< )⌒★ I'm NephrenCake!
+# Ciallo～(∠・ω< )⌒★
 
 - You can call me NephrenCake. 你可以叫我浅幽。请随意~
 - I'm a CS master candidate in the [**Department of Computer Science and Engineering**](https://www.cs.sjtu.edu.cn/index.aspx) of the [**Shanghai Jiao Tong University**](https://www.sjtu.edu.cn/).
