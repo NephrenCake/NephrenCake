@@ -1,4 +1,4 @@
-<img align='right' src='banner.jpg' width='410px'>
+<img align='right' src='banner.jpg' width='400px'>
 
 # Ciallo～(∠・ω< )⌒★
 
