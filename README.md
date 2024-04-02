@@ -4,8 +4,7 @@
 
 - I'm NephrenCake. 你可以叫我浅幽。请随意~
 - I'm a CS master in the [**Department of Computer Science and Engineering**](https://www.cs.sjtu.edu.cn/index.aspx) of the [**Shanghai Jiao Tong University**](https://www.sjtu.edu.cn/).
-- I'm currently working on [**Alluxio**](https://github.com/Alluxio/alluxio), especially on cache managenment.
-- I'm currently learning [**Kubernetes**](https://github.com/kubernetes/kubernetes).
+- I'm currently working on **Alluxio**, **JuiceFS** and **Kubernetes**, especially on cache managenment and cluster scheduling.
 - Striving to write the most graceful code.
 
 <p align="center">
