@@ -6,7 +6,7 @@
 
 - I'm NephrenCake. 你可以叫我浅幽。请随意~
 - I'm a CS master in the [**Department of Computer Science and Engineering**](https://www.cs.sjtu.edu.cn/index.aspx) of the [**Shanghai Jiao Tong University**](https://www.sjtu.edu.cn/).
-- I'm currently working on **cache managenment**, **cluster scheduling** and **LLM inference**.
+- I'm currently focusing on **cache managenment**, **cluster scheduling** and **LLM inference**.
 - Striving to write the most graceful code.
 
 <p align="center">
